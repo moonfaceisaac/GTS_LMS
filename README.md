@@ -12,4 +12,4 @@ Grand Tiga Sunggal Learning Management System. This project serve as the final p
 - Students
 - Admin
 
-[Video_Demonstrasi](https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221110026_students_mikroskil_ac_id/ES1IJb7-lEdMuY9wiySQvS8BbZajgGpAp67jc9s3FOSRgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7l0K3A)
+[Video_Demonstrasi](https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221110026_students_mikroskil_ac_id/ES1IJb7-lEdMuY9wiySQvS8BbZajgGpAp67jc9s3FOSRgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dKTTwA)
