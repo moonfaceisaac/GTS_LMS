@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "542911079019",
+    "firebase_url": "https://pambe00x-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pambe00x",
+    "storage_bucket": "pambe00x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542911079019:android:fa985b67d41eb4aca3472e",
+        "android_client_info": {
+          "package_name": "com.example.m06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kVh_P4fHYQNGXyY_zoQ5IJomVnbb73I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542911079019:android:8f1c44110d193b38a3472e",
+        "android_client_info": {
+          "package_name": "com.example.uts_mbe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kVh_P4fHYQNGXyY_zoQ5IJomVnbb73I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542911079019:android:d4ed11ffacb106e5a3472e",
+        "android_client_info": {
+          "package_name": "com.example.utsbimbel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kVh_P4fHYQNGXyY_zoQ5IJomVnbb73I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
