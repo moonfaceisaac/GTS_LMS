@@ -3,7 +3,7 @@ Grand Tiga Sunggal Learning Management System. This project serve as the final p
 
 ### Tech Stacks:
 - Dart/Flutter
-- Sequelize for DataBase
+- SQFLite for DataBase
 - Firebase for Analytics
 - SetState as State Management
 
